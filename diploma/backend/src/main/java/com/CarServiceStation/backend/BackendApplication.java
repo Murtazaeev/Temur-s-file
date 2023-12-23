@@ -1,13 +1,13 @@
-package com.example.carservicestationbackend;
+package com.CarServiceStation.backend;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class CarServiceStationBackendApplication {
+public class BackendApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(CarServiceStationBackendApplication.class, args);
+		SpringApplication.run(BackendApplication.class, args);
 	}
 
 }
